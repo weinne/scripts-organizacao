@@ -1,7 +1,8 @@
-node/node_modules/
+.env
+data/*.json
 python/venv_markitdown/
+node/node_modules/
 logs/*.log
 logs/*.txt
-data/index.json
 __pycache__/
 .DS_Store
